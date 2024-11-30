@@ -1,5 +1,3 @@
 # Jyotirmoy Bardhan's Portfolio
 
-This repository includes script snippets from my LIVE projects completed while working as an AI Solutions Architect. While it's not feasible to share the entire code for any LIVE projects in public repositories, I'm providing these samples to demonstrate my programming style and standards to potential employers or companies. Feel free to use the code without attribution, but please note that I offer no guarantee or liability in any form, for its use.
-
-Thank you
+This GitHub repo highlights the solution methodologies I implemented in some of my recent projects while working as Lead AI Solutions Architect. Due to the confidentiality of LIVE projects, I am unable to share part or full code in public repositories. Instead, I have included PDF files that outline the methodologies I applied to meet the clients' requirements.
